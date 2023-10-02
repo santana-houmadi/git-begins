@@ -7,3 +7,5 @@ git push origin matser
 git push nom-de-la-branche
 
 git pull
+git branch "add-create-branch-command"
+git checkout
