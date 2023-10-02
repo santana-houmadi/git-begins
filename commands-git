@@ -1,0 +1,11 @@
+pour cloner un repository: git clone https://github.com/santana-houmadi/git-begins.git
+
+les 3 commandes push: 
+
+git push remote branche
+git push origin matser
+git push nom-de-la-branche
+
+git pull
+git checkout
+git branch
