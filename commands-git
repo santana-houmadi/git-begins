@@ -6,3 +6,4 @@ git push remote branche
 git push origin matser
 git push nom-de-la-branche
 
+git pull
